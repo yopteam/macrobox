@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "software_url": "https://github.com/yopteam/macrobox/releases/download/v1.0.0/MacroBox-Configurator.exe",
+  "firmware_url": "https://github.com/yopteam/macrobox/releases/download/v1.0.0/firmware.bin",
+  "firmware_version": "1.0.0",
+  "changelog": "🎉 Initial Release\n\n✨ Features:\n• 10 customizable macro buttons\n• Easy configuration\n• USB connectivity",
+  "mandatory": false
+}
