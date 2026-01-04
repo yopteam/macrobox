@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "changelog": "Version initiale\n- Support de 12 boutons\n- Multi-device\n- Macros configurables\n- Interface PyQt5",
-  "download_url": "https://github.com/yopteam/macrobox/releases/download/v1.0.1/MacroBox.exe",
+  "download_url": "https://github.com/yopteam/macrobox/releases/download/untagged-420bf379cf804711918d/MacroBox.exe",
                    
   "firmware_version": "1.0.0",
   "firmware_url": "https://github.com/yopteam/macrobox/releases/download/v1.0.0/firmware.bin",
