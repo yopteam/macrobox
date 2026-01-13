@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "changelog": "Version 1.0.2 - Améliorations majeures\n\nNouvelles fonctionnalités:\n- Système tray: L'application reste en arrière-plan dans la zone de notification\n- Menu contextuel: Clic droit sur l'icône pour afficher/masquer/quitter\n- Fermeture intelligente: La croix cache l'application au lieu de la fermer\n- Recherche d'applications: Barre de recherche pour trouver rapidement des applications\n- Support des raccourcis: Recherche et lancement de raccourcis .lnk depuis le menu Démarrer\n\nCorrections:\n- Filtrage amélioré des désinstalleurs (uninstall.exe, setup.exe, etc.)\n- Détection correcte de l'exécutable principal au lieu du désinstalleur\n- Amélioration de la recherche d'applications dans le registre Windows",
-  "download_url": "https://github.com/yopteam/macrobox/releases/download/v1.0.2/MacroBox.exe",
+  "version": "1.0.3",
+  "changelog": "Version 1.0.3 - Améliorations majeures\n\nNouvelles fonctionnalités:\n- Système tray: L'application reste en arrière-plan dans la zone de notification\n- Menu contextuel: Clic droit sur l'icône pour afficher/masquer/quitter\n- Fermeture intelligente: La croix cache l'application au lieu de la fermer\n- Recherche d'applications: Barre de recherche pour trouver rapidement des applications\n- Support des raccourcis: Recherche et lancement de raccourcis .lnk depuis le menu Démarrer\n\nCorrections:\n- Filtrage amélioré des désinstalleurs (uninstall.exe, setup.exe, etc.)\n- Détection correcte de l'exécutable principal au lieu du désinstalleur\n- Amélioration de la recherche d'applications dans le registre Windows",
+  "download_url": "https://github.com/yopteam/macrobox/releases/download/v1.0.3/MacroBox.exe",
   "firmware_version": "1.0.0",
   "firmware_url": "https://github.com/yopteam/macrobox/raw/main/firmware_esp32.ino"
 }
